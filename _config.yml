@@ -23,10 +23,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Danielle"
+  pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Pullman"
   employer         : "Washington State University"
   uri              : # URL
   email            : "none@example.org" 
@@ -62,7 +62,9 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : Danielle Lindenfelser
+  linkedin         : Danielle Lindenfelser www.linkedin.com/in/
+danielle-lindenfelser-54b59428b
+
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
