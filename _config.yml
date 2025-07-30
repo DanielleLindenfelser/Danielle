@@ -13,7 +13,7 @@ title                    : Danielle Lindenfelser's webpage
 title_separator          : "-"
 name                     : &name "Danielle"
 description              : &description "personal description"
-url                      : https://daniellelindenfelser.github.io/Danielle/
+url                      : https://daniellelindenfelser.github.io/Danielle.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "DanielleLindenfelser/Danielle.io"
 
